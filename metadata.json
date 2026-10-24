@@ -1,0 +1,8 @@
+{
+  "name": "Remix EcoVox - Platform Vokasi SMK Surabaya",
+  "description": "Aplikasi edukasi vokasi berkelanjutan, daily task rotasi 10 mapel, bank sampah smart bin, dan kantin sehat SMK Surabaya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
